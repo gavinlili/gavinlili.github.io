@@ -1,2 +1,2 @@
 
-![Good Design]({{site.baseurl}}/img/.png){: .center-block :}
+![Good Design]({{site.baseurl}}/img/gooddesign.png){: .center-block :}
