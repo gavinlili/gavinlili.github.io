@@ -1,4 +1,4 @@
-###### Streamline
+### Streamline
 
 ### Problem and Motivation
 
