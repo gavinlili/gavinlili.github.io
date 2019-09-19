@@ -14,7 +14,7 @@ The goal of Streamline is to address people’s loss of community and engagement
 In many urban areas, direct communication and a sense of belonging with the community is lost. Platforms like Nextdoor, whose mission is “The private social network for your neighborhood," are indicative of people’s feelings of detachment from their community. Meanwhile, grassroots organizations struggle in numbers as canvassing is time-consuming and provides indefinite results since they frequently have niche goals. Streamline assists in community engagement by serving as a platform for these organizations to publicly share events they’re hosting, connecting them with users that want to learn more and be more engaged within their community. 
 
 ![projectproposal]({{site.baseurl}}/img/projectproposal1.jpeg){: .center-block :}
-
+Photo from ###### MindingTheCampus https://www.mindingthecampus.org/2019/03/25/howsocial-justice-undermines-true-diversity/
 
 ### Similar Works
 
