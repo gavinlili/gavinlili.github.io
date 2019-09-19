@@ -3,17 +3,17 @@
 
 ### Problem and Motivation
 
-New York City is bustling with community organizing across its five boroughs. Events for nationally-recognized events such as the 2017 Women’s March garnered 3.3 - 4.6 million people.<sup>2</sup> Unfortunately, this isn’t the case for many smaller grassroots organizations that address unique problems relevant to local and regional communities. Numbers of people at public demonstrations equate to power, and Streamline hopes to promote exploration and learning for its users by connecting them with these organizations and, in doing so, bring the necessary numbers to grassroots organizations to achieve their desired change.
+The United States and the world are filled with organizations seeking to bring change. Events for nationally-recognized events such as the 2017 Women’s March garnered 3.3-4.6 million people.<sup>2</sup> Unfortunately, this isn’t the case for many smaller grassroots organizations that address unique problems relevant to local and regional communities. Numbers of people at public demonstrations equate to power, and Streamline hopes to promote exploration and learning for its users by connecting them with these organizations and, in doing so, bringing the necessary numbers to grassroots organizations to achieve their desired change.
 
 ![projectproposal]({{site.baseurl}}/img/womensmarch.jpeg){: .center-block :}
-(<sup>6</sup>)
+The 2017 Women's March <sup>6</sup>
 
 ### Analysis of Problem
 
 The goal of Streamline is to address people’s loss of community and engagement by streamlining organizations and events nearby based on their physical proximity to users. This is a learning process that encourages users to explore their community through event options nearby and provides them with information on these organizations that may pique their interests. In many urban areas, direct communication and a sense of belonging with the community is lost. Platforms like Nextdoor, whose mission is “the private social network for your neighborhood,"<sup>4</sup> are indicative of people’s feelings of detachment from their community. Meanwhile, grassroots organizations struggle in numbers as canvassing is time-consuming and provides indefinite results since they frequently have niche goals that may not interest everyone. While canvassing isn't always promising, its concept of gathering people is what Streamline values and wants to preserve. By using the idea of canvassing and reversing its process, instead of bringing the organization to people (many of whom may be uninterested), Streamline brings people to the organization. Streamline assists in community engagement by serving as a platform for these organizations to publicly share events they’re hosting, connecting them with users that want to learn more and be more engaged within their community. 
 
 ![projectproposal]({{site.baseurl}}/img/projectproposal1.jpeg){: .center-block :}
-(<sup>5</sup>)
+<sup>5</sup>
 
 ### Similar Works
 
