@@ -3,7 +3,7 @@ layout: post
 title: Project Proposal: Streamline
 ---
 
-###### Streamline
+## Streamline
 
 ### Problem
 
@@ -25,7 +25,7 @@ Our biggest competitor in the space of event-sharing and organization-finding wo
 
 
 ### Sources
-https://sproutsocial.com/insights/facebook-algorithm/
-https://www.theatlantic.com/technology/archive/2017/01/womens-march-protest-count/514166/
-https://zephoria.com/top-15-valuable-facebook-statistics/
-https://nextdoor.com
+###### https://sproutsocial.com/insights/facebook-algorithm/
+###### https://www.theatlantic.com/technology/archive/2017/01/womens-march-protest-count/514166/
+###### https://zephoria.com/top-15-valuable-facebook-statistics/
+###### https://nextdoor.com
