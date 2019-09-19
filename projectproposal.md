@@ -9,7 +9,7 @@ title: Project Proposal: Streamline
 
 New York City is bustling with community organizing across its five boroughs. Events for nationally-recognized events such as the 2017 Women’s March garnered 3.3 - 4.6 million people. Unfortunately, this isn’t the case for many smaller grassroots organizations that address unique problems relevant to local and regional communities. Numbers of people at public demonstrations equate to power, and Streamline hopes to promote exploration and learning for its users by connecting them with these organizations and, in doing so, bring the necessary numbers to grassroots organizations to achieve their desired change.
 
-![projectproposal]({{site.baseurl}}/img/womensmarch.png){: .center-block :}
+![projectproposal]({{site.baseurl}}/img/womensmarch.jpeg){: .center-block :}
 
 ### Mission
 
@@ -17,7 +17,7 @@ The goal of Streamline is to address people’s loss of community and engagement
 
 In many urban areas, direct communication and a sense of belonging with the community is lost. Platforms like Nextdoor, whose mission is “The private social network for your neighborhood”, are indicative of people’s feelings of detachment from their community. Meanwhile, grassroots organizations struggle in numbers as canvassing is time-consuming and provides indefinite results since they frequently have niche goals. Streamline assists in community engagement by serving as a platform for these organizations to publicly share events they’re hosting, connecting them with users that may want to learn more.
 
-![name of page]({{site.baseurl}}/img/projectproposal1.png){: .center-block :}
+![projectproposal]({{site.baseurl}}/img/projectproposal1.jpeg){: .center-block :}
 
 ### Similar Works
 
