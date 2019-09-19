@@ -1,3 +1,5 @@
+###### Streamline
+
 ### Problem and Motivation
 
 New York City is bustling with community organizing across its five boroughs. Events for nationally-recognized events such as the 2017 Women’s March garnered 3.3 - 4.6 million people.<sup>2</sup> Unfortunately, this isn’t the case for many smaller grassroots organizations that address unique problems relevant to local and regional communities. Numbers of people at public demonstrations equate to power, and Streamline hopes to promote exploration and learning for its users by connecting them with these organizations and, in doing so, bring the necessary numbers to grassroots organizations to achieve their desired change.
