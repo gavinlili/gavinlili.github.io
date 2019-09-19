@@ -23,8 +23,13 @@ Our biggest competitor in the space of event-sharing and organization-finding wo
 
 ### Sources
 (1) https://sproutsocial.com/insights/facebook-algorithm/
+
 (2) https://www.theatlantic.com/technology/archive/2017/01/womens-march-protest-count/514166/
+
 (3) https://zephoria.com/top-15-valuable-facebook-statistics/
+
 (4) https://nextdoor.com
+
 (5) https://www.mindingthecampus.org/2019/03/25/howsocial-justice-undermines-true-diversity/
+
 (6) https://www.washingtonpost.com/news/local/wp/2017/01/31/the-woman-who-started-the-womens-march-with-a-facebook-post-reflects-it-was-mind-boggling/
