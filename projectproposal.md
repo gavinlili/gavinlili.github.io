@@ -5,7 +5,7 @@
 New York City is bustling with community organizing across its five boroughs. Events for nationally-recognized events such as the 2017 Women’s March garnered 3.3 - 4.6 million people.<sup>2</sup> Unfortunately, this isn’t the case for many smaller grassroots organizations that address unique problems relevant to local and regional communities. Numbers of people at public demonstrations equate to power, and Streamline hopes to promote exploration and learning for its users by connecting them with these organizations and, in doing so, bring the necessary numbers to grassroots organizations to achieve their desired change.
 
 ![projectproposal]({{site.baseurl}}/img/womensmarch.jpeg){: .center-block :}
-Photo from ###### WashingtonPost https://www.washingtonpost.com/news/local/wp/2017/01/31/the-woman-who-started-the-womens-march-with-a-facebook-post-reflects-it-was-mind-boggling/
+Photo from WashingtonPost<sup>6</sup>
 
 ### Analysis of Problem
 
@@ -14,7 +14,7 @@ The goal of Streamline is to address people’s loss of community and engagement
 In many urban areas, direct communication and a sense of belonging with the community is lost. Platforms like Nextdoor, whose mission is “The private social network for your neighborhood,"<sup>4</sup> are indicative of people’s feelings of detachment from their community. Meanwhile, grassroots organizations struggle in numbers as canvassing is time-consuming and provides indefinite results since they frequently have niche goals. Streamline assists in community engagement by serving as a platform for these organizations to publicly share events they’re hosting, connecting them with users that want to learn more and be more engaged within their community. 
 
 ![projectproposal]({{site.baseurl}}/img/projectproposal1.jpeg){: .center-block :}
-Photo from ###### MindingTheCampus https://www.mindingthecampus.org/2019/03/25/howsocial-justice-undermines-true-diversity/
+Photo from MindingTheCampus<sup>5</sup>
 
 ### Similar Works
 
@@ -22,7 +22,9 @@ Our biggest competitor in the space of event-sharing and organization-finding wo
 
 
 ### Sources
-(1) ###### https://sproutsocial.com/insights/facebook-algorithm/
-(2) ###### https://www.theatlantic.com/technology/archive/2017/01/womens-march-protest-count/514166/
-(3) ###### https://zephoria.com/top-15-valuable-facebook-statistics/
-(4) ###### https://nextdoor.com
+(1) https://sproutsocial.com/insights/facebook-algorithm/
+(2) https://www.theatlantic.com/technology/archive/2017/01/womens-march-protest-count/514166/
+(3) https://zephoria.com/top-15-valuable-facebook-statistics/
+(4) https://nextdoor.com
+(5) https://www.mindingthecampus.org/2019/03/25/howsocial-justice-undermines-true-diversity/
+(6) https://www.washingtonpost.com/news/local/wp/2017/01/31/the-woman-who-started-the-womens-march-with-a-facebook-post-reflects-it-was-mind-boggling/
