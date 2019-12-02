@@ -9,7 +9,7 @@ Thankfully, we honed our focus on just students, and our contextual inquiry actu
 
 Building off of the contextual inquiries, what helped cohere our project was the [affinity diagram](https://hci-res.github.io/2019-10-05-CI-Review/). Affinity diagramming was especially useful because it helped us compile the information we received from the contextual inquiries and categorize them into themes such as “too many people” or “problems communicating with administration.” The diagram looked like this:
 
-![designmanifesto]({{site.baseurl}}/img/affinitydiagram.png){: .center-block :}
+![designmanifesto]({{site.baseurl}}/img/Affinitydiagram.png){: .center-block :}
 
 What helped our group look at the contextual inquiries in a broader context was by [avoiding words](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992358) we previously used to describe housing situations we thought about and wanted to address during the affinity diagramming. Doing so gave us a new way of interpreting the themes so that they do not segway back into old thoughts about problems, offering us a refreshing perspective. This renewed perspective aided us in deciding on directions we wanted our application to head in our [task review](https://hci-res.github.io/2019-10-06-Task-Review/). The affinity diagram and further introspection within our group led us to consider what tasks we wanted to include in our low-fidelity prototype. Looking back, it would be interesting to redo the affinity diagramming. Equipped with more experience and knowledge from the class, it would be exciting to see how different and possibly more comprehensive our affinity diagramming would look.
 
@@ -21,7 +21,7 @@ Looking back with more knowledge and experience about the design process, I wond
 ### Prototyping
 When it came to creating [paper prototypes](https://hci-res.github.io/2019-10-30-Paper-Prototype), our group tapped into the ways of designing information and how it is interacted with through our information prototype readings. We implemented [task flows](https://glow.williams.edu/files/153992334/download?download_frd=1) so there is a logical transition from each screen to the next and took inspiration from the [hub & spoke](http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture/) of information architecture to design our application’s navigation system. The hub & spoke system specifically refers to the icons on the bottom of our screens that lets users do certain activities and return to the “hub” by tapping on the home screen. The icons looked like this:
 
-
+![designmanifesto]({{site.baseurl}}/img/PaperBar.png){: .center-block :}
 
 I remember finishing the paper prototype with my group and feeling an immense sense of satisfaction believing the prototype cannot get any better. This changed when we conducted heuristic evaluations.
 
@@ -30,9 +30,11 @@ Personally, I found the [heuristic evaluations](https://hci-res.github.io/2019-1
 ### Accessibility
 The digital mockup process was my favorite and I voluntary did most of it with the approval of my group. It was exciting looking through the heuristic evaluations and comments we received from the usability test and putting them into a [digital prototype](https://hci-res.github.io/2019-11-13-Digital-MockUp/). While digitizing our design, I frequently considered how I can make the design more accessible for users. It was difficult trying to make the application more accessible because there are many forms of accessibility that I [read about](https://glow.williams.edu/files/153992322/download?download_frd=1) and I likely did not have enough time to make it accessible for everyone, but I still made an effort while digitizing. Interestingly, some parts of the application that I would implement for one group of people may actually be a [detriment to another](https://glow.williams.edu/files/153992322/download?download_frd=1) such as the differing color contrast-preferences between users with autism and users with low vision and/or dyslexia. One big change I made from the usability testing was the labeling of icons in the bottom of our screens, changing it from this:
 
+![designmanifesto]({{site.baseurl}}/img/PaperBar.png){: .center-block :}
+
 To this:
 
-
+![designmanifesto]({{site.baseurl}}/img/Digitalbar.png){: .center-block :}
 
 We did this because the users we tested our prototype on already had difficulty understanding the icons. When thinking of people with vision-impairments, the icons may be further indistinguishable and not understandable, another reason for labeling the icons. When trying to make the application easier to look through information, we followed a [linear logical](https://glow.williams.edu/files/153992322/download?download_frd=1) layout in most of our screens which makes it easier to view. Without realizing, we actually made the application more usable for people with autism, low vision, dyslexia, anxiety, and/or users of screen readers. This brought me back to a point reiterated multiple times in class about how by designing for people with special needs, you may indirectly be helping the general user, as well. The example that first comes to mind would be curb ramps, which was initially created for wheelchair users but ultimately aided everyone in their commute. In the future, if I were to add onto this project, I want to include a “dark mode” which allows users with dyslexia to adjust the contrast of the background and text and add [alt text](https://glow.williams.edu/files/153992322/download?download_frd=1) for screen readers.
 
