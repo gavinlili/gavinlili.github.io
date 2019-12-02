@@ -19,11 +19,20 @@ description: Gavin Li's Website
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  Good Design: "gooddesign"
-  Bad Design: "baddesign"
-  Project Proposal: "projectproposal"
-  Research Paper Report: "ResearchPaperReport"
+# navbar-links:
+  #Good Design: "gooddesign"
+  #Bad Design: "baddesign"
+  #Project Proposal: "projectproposal"
+  #Research Paper Report: "ResearchPaperReport"
+  #Design Manifesto: "designmanifesto"
+  
+  navbar-links:
+  Project Website: "https://hci-res.github.io"
+  Designs:
+  - Good Design: "gooddesign"
+  - Bad Design: "baddesign"
+  Proposal: "projectproposal"
+  Report: "ResearchPaperReport"
   Design Manifesto: "designmanifesto"
 
 # Image to show in the navigation bar - image must be a square (width = height)
