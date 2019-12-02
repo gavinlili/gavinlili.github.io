@@ -9,7 +9,7 @@ Thankfully, we honed our focus on just students, and our contextual inquiry actu
 
 Building off of the contextual inquiries, what helped cohere our project was the [affinity diagram](https://hci-res.github.io/2019-10-05-CI-Review/). Affinity diagramming was especially useful because it helped us compile the information we received from the contextual inquiries and categorize them into themes such as “too many people” or “problems communicating with administration.” The diagram looked like this:
 
-![designmanifesto]({{site.baseurl}}/img/Affinitydiagram.png){: .center-block :}
+![designmanifesto]({{site.baseurl}}/img/AffinityDiagram.png){: .center-block :}
 
 What helped our group look at the contextual inquiries in a broader context was by [avoiding words](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992358) we previously used to describe housing situations we thought about and wanted to address during the affinity diagramming. Doing so gave us a new way of interpreting the themes so that they do not segway back into old thoughts about problems, offering us a refreshing perspective. This renewed perspective aided us in deciding on directions we wanted our application to head in our [task review](https://hci-res.github.io/2019-10-06-Task-Review/). The affinity diagram and further introspection within our group led us to consider what tasks we wanted to include in our low-fidelity prototype. Looking back, it would be interesting to redo the affinity diagramming. Equipped with more experience and knowledge from the class, it would be exciting to see how different and possibly more comprehensive our affinity diagramming would look.
 
@@ -47,4 +47,12 @@ Lastly, for my personal code of ethics, my biggest two are [confidentiality](htt
 
 
 
-Overall, the design process was an eye-opening experience. I found the nuances of design very rewarding and it has made me more aware of design throughout my daily life, such as with the applications I use on my phone. It is also satisfying to look back at how much our project has changed. Comparing our paper prototype to the digital, the two look completely different, not just because the digital looks a lot cleaner but also because so many aspects of our tasks have been looked over and revised throughout the design process. Thinking back, I would not have expected RES to have made so many changes in its direction, but they were all done with reason and in response to information we received during the design process. With the course wrapping up, I am glad to say that I am proud of the hard work my group has done and I am excited to carry the lessons and skills I learned with me to whatever work I do.
+Overall, the design process was an eye-opening experience. I found the nuances of design very rewarding and it has made me more aware of design throughout my daily life, such as with the applications I use on my phone. It is also satisfying to look back at how much our project has changed. Comparing our paper prototype to the digital, the two look completely different, not just because the digital looks a lot cleaner but also because so many aspects of our tasks have been looked over and revised throughout the design process. Here is a screen from our paper prototype:
+
+![designmanifesto]({{site.baseurl}}/img/PaperEvents.png){: .center-block :}
+
+And here is the same screen from our digital mockup:
+
+![designmanifesto]({{site.baseurl}}/img/Digitalevents.png){: .center-block :}
+
+Thinking back, I would not have expected RES to have made so many changes in its direction, but they were all done with reason and in response to information we received during the design process. With the course wrapping up, I am glad to say that I am proud of the hard work my group has done and I am excited to carry the lessons and skills I learned with me to whatever work I do.
