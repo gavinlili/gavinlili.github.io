@@ -53,6 +53,6 @@ Overall, the design process was an eye-opening experience. I found the nuances o
 
 And here is the same screen from our digital mockup:
 
-![designmanifesto]({{site.baseurl}}/img/Digitalevents.png){: .center-block :}
+![designmanifesto]({{site.baseurl}}/img/Digitalevents.jpg){: .center-block :}
 
 Thinking back, I would not have expected RES to have made so many changes in its direction, but they were all done with reason and in response to information we received during the design process. With the course wrapping up, I am glad to say that I am proud of the hard work my group has done and I am excited to carry the lessons and skills I learned with me to whatever work I do.
